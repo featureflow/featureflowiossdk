@@ -72,7 +72,7 @@ private func evaluate() {
     
             // 6 - Check if Facebook login feature is on
             let facebookLogonFeatureisOn = featureFlowClient.evaluate(featureKey: "facebook-login", featureflowContext: context).isOn()
-            print("Facebook Login integration: \(facebookLogonFeatureisOn)"
+            print("Facebook Login integration: \(facebookLogonFeatureisOn)")
         }
     }
 
