@@ -1,0 +1,17 @@
+- Implement the TAG optimisation
+- Pass timeout, proxy to networking code
+- Convert all cucumber tests to unit tests
+
+- How waitForStartup is supposed to work
+
+- background fetch?
+
+
+- Test Host Proxy
+- Internationalisation?
+- Add callbacks and upstream
+
+- NOTE: ASSUMPTION: TODO: QUESTION:
+
+
++ error server key, catch and log error severe but don't kill application
