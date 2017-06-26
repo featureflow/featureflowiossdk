@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "featureflowiossdk"
-s.version      = "0.0.2"
+s.version      = "0.0.3"
 s.summary      = "Featureflow SDK for iOS."
 s.description  = <<-DESC
 Software delivery should be enjoyable :)
