@@ -29,7 +29,7 @@ Software delivery should be enjoyable :)
 Featureflow keeps the business in control and makes champions of developers.
 DESC
 
-s.homepage     = "https://bitbucket.org/mmattini/featureflowiossdk.git"
+s.homepage     = "https://github.com/featureflow/featureflowiossdk.git"
 # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -82,7 +82,7 @@ s.platform     = :ios, "9.0"
 #  Supports git, hg, bzr, svn and HTTP.
 #
 
-s.source       = { :git => "https://bitbucket.org/mmattini/featureflowiossdk.git", :tag => "#{s.version}" }
+s.source       = { :git => "https://github.com/featureflow/featureflowiossdk.git", :tag => "#{s.version}" }
 
 
 # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
